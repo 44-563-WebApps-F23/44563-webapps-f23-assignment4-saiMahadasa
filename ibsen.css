@@ -7,4 +7,20 @@
     color: #000000;
     font-size: 12px;
     font-family: 'Times New Roman';
+    background-color: bisque;
+    
+}
+.direction:hover{
+    background-color: aquamarine;
+    color: coral;
+}
+.linde{
+    color: blue;
+    font-style: italic;
+    text-decoration: dashed;
+
+}
+.nora{
+    color:darkgreen;
+    font-style: italic;
 }
