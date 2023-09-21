@@ -60,3 +60,14 @@ td{
 tr:nth-child(even) {
     background-color: Lightgreen;
 }
+.navitem{
+    display: flex;
+    align-items: center;
+}
+.navpart{
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 20px;
+    align-items: center;
+    padding: 10px;
+}
